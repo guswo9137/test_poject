@@ -1,0 +1,6 @@
+hello.git!
+[D[C[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[B[B[B[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[
+[A[A[C[C[l[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[B[A$ cat test.txt
+[A[B[C[C[C[A[A[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[[A[C[C[C[C[C[C[C[C
+[B[B[B[A[Ahello.git!
